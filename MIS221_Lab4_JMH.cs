@@ -12,10 +12,9 @@ while(whatEva != 4){
         CheesyGabagool();
     } else if (whatEva == 3){
         PiggyGabagool();
+    } catch(Exception e){
+        System.Console.WriteLine(e.Message);
     }
-    //} catch(Exception e){
-        //System.Console.WriteLine(e.Message);
-    //}
     whatEva = GetANumba();
 }
 
