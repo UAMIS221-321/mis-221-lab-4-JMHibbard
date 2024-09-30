@@ -12,9 +12,9 @@ while(whatEva != 4){
         CheesyGabagool();
     } else if (whatEva == 3){
         PiggyGabagool();
-    } catch(Exception e){
+    }/* catch(Exception e){
         System.Console.WriteLine(e.Message);
-    }
+    }*/
     whatEva = GetANumba();
 }
 
@@ -26,7 +26,7 @@ while(whatEva != 4){
     System.Console.WriteLine();
 }*/
 
-//j1: Boneless Pizza??? What is wrong with you?
+
 static void NothinGabagool(){
     for(int i = 0; i < random; i++){
         for(int j = 1; j < random - i; j++){
@@ -36,7 +36,7 @@ static void NothinGabagool(){
     }
 }
 
-//j2: The old classic? Nothin wrong with that, just make sure you can handle your dairy.
+
 static void CheesyGabagool(){
     for(int i = 0; i < random; i++){
         for(int j = 0; j < random - i; j++){
@@ -50,7 +50,7 @@ static void CheesyGabagool(){
     }
 }
 
-//j3: Pepperoni? Calazoni? What's the difference, the piggy be oinkin.
+
 static void PiggyGabagool(){
     for(int i = 0; i < random; i++){
         for(int j = 1; j < random - i; j++){
