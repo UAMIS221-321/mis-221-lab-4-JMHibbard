@@ -1,0 +1,5 @@
+C:\cygwin64\home\John Michael\MIS\MIS221\mis-221-lab-4-JMHibbard\obj\Debug\net8.0\mis-221-lab-4-JMHibbard.GeneratedMSBuildEditorConfig.editorconfig
+C:\cygwin64\home\John Michael\MIS\MIS221\mis-221-lab-4-JMHibbard\obj\Debug\net8.0\mis-221-lab-4-JMHibbard.AssemblyInfoInputs.cache
+C:\cygwin64\home\John Michael\MIS\MIS221\mis-221-lab-4-JMHibbard\obj\Debug\net8.0\mis-221-lab-4-JMHibbard.AssemblyInfo.cs
+C:\cygwin64\home\John Michael\MIS\MIS221\mis-221-lab-4-JMHibbard\obj\Debug\net8.0\mis-221-lab-4-JMHibbard.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\John Michael\MIS\MIS221\mis-221-lab-4-JMHibbard\obj\Debug\net8.0\mis-221-lab-4-JMHibbard.sourcelink.json
